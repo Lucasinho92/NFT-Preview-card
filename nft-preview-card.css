@@ -1,0 +1,116 @@
+body{
+    width: 1440px;
+    font-family: 'Merriweather Sans', 'sans-serif', 'Montserrat', 'Oswald', 'Sacramento';
+    background-color: rgb(14, 13, 13);
+    
+
+}
+section{
+    background-color: hsl(216, 66%, 8%);
+    width: 600px;
+    height: 930px;
+    margin: 100px auto;
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px 2px rgba(rgb(14, 13, 13)) ;
+    padding-top: 5px;
+    
+}
+
+
+main{
+    background-color: hsl(217, 54%, 11%);
+    width: 500px;
+    height: 870px;
+    margin: 10px auto 15px auto;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px rgba(rgb(14, 13, 13));
+    border: 2px thin black ;
+    padding: 30px 10px 5px 15px;
+}
+.card-background{
+    background-color: hsl(216, 50%, 16%);
+}
+.image-equilibrium{
+    width: 480px;
+    height: 480px;
+    margin: 20px auto 10px 10px;
+    border-radius: 8px;
+    
+}
+.equilibrium{
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.details{
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: 'Montserrat' ;
+    letter-spacing: 2px;
+
+}
+tr{
+    color: white;
+    font-size: 15px;
+    padding: 40px;
+    margin: 30px;
+    
+}
+.eth{
+    padding: 30px 10px 0 25px;
+    margin-left: 30px;
+    color: hsl(215, 51%, 70%);;  
+
+}
+.img{
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+    
+    
+}
+.img-clock{
+    margin-left: 220px;
+    margin-top: 5px;
+    width: 15px;
+    height: 15px;
+    padding: 30px 5px 0 25px;
+}
+.three-days{
+    margin-left: 40px;
+    color: hsl(315, 71%, 90%);
+    font-size: 15px;
+}
+hr{
+    
+    width: 450px;
+    
+    border-top: 0.5px thin hsl(215, 51%, 70%);
+    margin-top: 20px;
+    border-bottom: none;
+}
+.avatar-img{
+    width: 40px;
+    height: 40px;
+    margin: 10px 5px 10px 50px;
+    border: 2px solid white;
+    border-radius: 50%;
+    
+}
+.creations{
+    color: hsl(215, 51%, 70%);;
+    margin: 10px;
+    font-family: 'Montserrat';
+    letter-spacing: 4px;
+    
+    
+}
+.jules{
+    color: white;
+}
+#table{
+    margin-top: 40px;
+}
